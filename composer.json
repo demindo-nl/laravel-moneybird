@@ -1,0 +1,11 @@
+{
+    "name": "demindo/laravel-moneybird",
+    "description": "A moneybird api package",
+    "authors": [
+        {
+            "name": "Ronald van Eede",
+            "email": "ronald@demindo.com"
+        }
+    ],
+    "require": {}
+}
